@@ -1,60 +1,63 @@
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Sudip%20Das&fontSize=60&fontColor=fff&fontAlign=50" />
 
-# Git Stats 📊
-  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudipdas05&theme=chartreuse-dark&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7&hide_border=true" alt="GitHub Activity Graph"/>
-    </td>
-  </tr>
-</table>
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=sudipdas05&theme=chartreuse_dark&hide_border=true" alt="GitHub Streak"/>
-      </td>
-     <td>
-        <img 
-         src="https://github-readme-stats.vercel.app/api?username=sudipdas05&theme=blue-green&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
-      </td>
-     </tr>
-  </table>
-  <table>
-   <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudipdas05&theme=chartreuse_dark" alt="GitHub Summarry Card"/>
-   </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipdas05&theme=blue-green&layout=donut&hide_border=true" alt="Top Languages"/>
-      </td>
-    
-  </table>
-
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=700&color=00C2FF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Sudip+Das+👋;Passionate+Coder+and+Learner;C+%7C+Python+%7C+MySQL+%7C+DSA;Always+Building+%26+Exploring" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/susx_dip/)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudipdas05)
+## 🌟 About Me  
+<img align="right" alt="Coding Animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🌱 **Learning:** Python, DSA, and MySQL  
+- 💡 **Interests:** Web Basics, Problem Solving, System Design  
+- 📫 **Reach me at:** [yoursudipdas@gmail.com](mailto:yoursudipdas@gmail.com)  
+- ⚡ **Fun Fact:** I turn coffee into clean, bug-free code ☕  
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-#Watch the snake eat my streaks
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
-  <img alt="github-snake" src="github-user-contribution.svg" />
-</picture>
+## 🔗 Connect With Me  
+<p align="center">
+  <a href="https://github.com/sudipdas05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/susx_dip/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:yoursudipdas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sudipdas05&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+## 💻 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,mysql,html,css,git,github,linux&theme=light&perline=8" />
+</p>
 
+---
 
-[![](https://visitcount.itsvg.in/api?id=sudipdas05&icon=5&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Insights  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudipdas05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudipdas05&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipdas05&theme=tokyonight&layout=compact&hide_border=true" height="150"/>
+</p>
 
-  ## 💰 You can help me by Donating UPI
-  (sudip@ibl) 
+---
+
+## 💡 Quote of the Day  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 👁️ Visitor Count  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudipdas05&label=Profile%20Views&color=ff00ff&style=for-the-badge" alt="sudipdas05" />
+</p>
+
+---
+
+<!-- Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=35&fontColor=fff&fontAlign=50" />
